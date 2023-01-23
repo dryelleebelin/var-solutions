@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Meu sistema</title>
+</head>
+
+<body>
+    <h1>Meu primeiro sistema</h1>
+    <p id="paragrafo1">Teste de texto no sistema</p>
+    <p id="paragrafo2">Testando...</p>
+    <button onclick="alterarTexto1()">Testando JavaScript</button>
+    <button onclick="alterarTexto2()">Testando JavaScript</button>
+    <button onclick="alertaPadrao('Testando funções com parâmetros')">Teste 2 de JavaScript</button>
+    <button onclick="somar()">Somar variáveis</button><br><br>  <!--onclick = ao clicar-->
+    
+    <label for="">Digite o primeiro número</label><br>
+    <input id="input1" type="number"><br><br>
+    <label for="">Digite o segundo número</label><br>
+    <input id="input2" type="number"><br><br>
+    <button onclick="calculadora('Somar')">Somar</button>
+    <button onclick="calculadora('Subtrair')">Subtrair</button>
+    <button onclick="calculadora('Multiplicar')">Multiplicar</button>
+    <button onclick="calculadora('Dividir')">Dividir</button><br><br>
+
+
+
+
+
+
+
+
+    <script>
+        function alterarTexto1() {
+            if (confirm('Deseja atualizar o horário?')) //se //vai fazer //"confirm" opção ok e cancelar
+            {
+                document.getElementById('paragrafo1').innerHTML = Date()
+            }
+            else //se não //vai fazer
+            {
+                alert('O horário não foi atualizado!') //"alert" opção ok
+            }
+        }
+
+
+
+        function alterarTexto2() { //"alterar texto()" é o nome da função //a function é tipo um id ou classe
+            document.getElementById('paragrafo2').innerHTML = Date()
+        }
+
+        function alertaPadrao(textoExibicao) {  //a função espera //"texto exibicao" = variavél
+            alert(textoExibicao)
+        }
+
+
+
+        function somar() {
+            var valor1 = 5  //variável //nome da variável //recebe
+            var valor2 = 5
+            var resultado = valor1 + valor2
+
+            if (resultado == 10)
+            {
+                alert('Passou de fase!')
+            }
+            else
+            {
+                alert('Você repetiu de ano!')
+            }
+        }
+
+
+
+        function calculadora(operacao) 
+        {
+            var valor1 = parseInt(document.getElementById('input1').value) //parseInt() = converte p número
+            var valor2 = parseInt(document.getElementById('input2').value)
+
+            if (operacao == "Somar")
+            {
+                var resultado = valor1 + valor2
+                alert(resultado)
+            }
+            else if (operacao == "Subtrair")
+            {
+                var resultado = valor1 - valor2
+                alert(resultado)
+            }
+            else if (operacao == "Multiplicar")
+            {
+                var resultado = valor1 * valor2
+                alert(resultado)
+            }
+            else if (operacao == "Dividir")
+            {
+                var resultado = valor1 / valor2
+                alert(resultado)
+            }
+        }
+    </script>
+</body>
+
+</html>

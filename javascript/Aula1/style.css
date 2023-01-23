@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'noto sans', sans-serif;
+}
+
+body {
+    background-color: #464646;
+    color: white;
+}
+
+#paragrafo1 {
+    background-color: grey;
+    font-size: 20px;
+}
+
+#lampada {
+    margin-top: 20px;
+    width: 70px;
+}
