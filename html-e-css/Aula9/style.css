@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+/*responsividade*/
+@media (max-width: 450px)
+{
+    .classetexto {
+        color: yellow;
+    }
+    .classebody {
+        background-color: black;
+    }
+}
+@media (max-width: 769px) and (min-width: 451px)
+{
+    .classetexto {
+        color: red;
+    }
+}
+@media (min-width: 770px)
+{
+    .classevideo {
+        width: 100%;
+    }
+}

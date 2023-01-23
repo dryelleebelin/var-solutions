@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Index | Aula 7 e 8</title>
+</head>
+
+<body>
+    <div style="text-align: center;">
+        <img class="imagemperfil" src="img/isaacnewton.jpg" alt="Imagem Isaac Newton">
+    </div>
+    <h1 style="text-align: center;">Inscrição para concurso de física</h1>
+
+    <form action="https://www.google.com.br" target="_blank"> <!--formulário--> <!--o _blank abre uma nova página-->
+        <div class="divform">
+            <label for="inputnome">Nome:</label><br>
+            <input type="text" name="inputnome" id="inputnome" placeholder="Digite seu nome" required><br> <!--o required faz ser obrigatório-->
+        </div>
+        <div class="divform">
+            <label for="inputemail">Email:</label><br>
+            <input type="email" name="inputemail" id="inputemail" autocomplete="off" placeholder="Digite seu email" required><br> <!--o autocomplete off faz com que o texto não se autocomplete-->
+        </div>
+        <div class="divform">
+            <label for="inputdatanascimento">Data de nascimento:</label><br>
+            <input type="date" name="inputdatanascimento" id="inputdatanascimento">
+        </div>
+        <div class="divform">
+            <label for="inputfile">Upload do RG:</label><br>
+            <input type="file" name="inputfile" id="inputfile">
+        </div>
+        <div class="divform">
+            <label for="inputtelefone">Telefone:</label><br>
+            <input type="tel" name="inputtelefone" id="inputtelefone" placeholder="Digite seu telefone">
+        </div>
+        <div class="divform">
+            <label for="inputcorfavorita">Selecione sua cor favorita:</label><br>
+            <input type="color" name="inputcorfavorita" id="inputcorfavorita">
+        </div>
+        <div class="divform">
+            <label for="inputidade">Digite a sua idade:</label><br>
+            <input type="number" name="inputidade" id="inputidade" min="18" max="50">
+        </div>
+        <div class="divform">
+            <label for="inputsenha">Digite sua senha:</label><br>
+            <input type="password" name="inputsenha" id="inputsenha" minlength="8" required> <!--o minlength 8 é a quantidade de caracteres-->
+        </div>
+        <div class="divform">
+            <label for="inputlistturma">Selecione uma turma:</label><br>
+            <input list="turmas" required>
+            <datalist id="turmas">
+                <option value="Manhã"></option> <!--opções-->
+                <option value="Tarde"></option>
+                <option value="Noite"></option>
+                <option value="Sábado"></option>
+            </datalist>
+        </div>
+        <div class="divform">
+            <h3>Refeições do seu dia</h3>
+            <input type="checkbox" name="inputcheckboxref1" id="inputcheckboxref1" value="Cafe">
+            <label for="inputcheckboxref1">Café da manhã</label><br>
+            <input type="checkbox" name="inputcheckboxref2" id="inputcheckboxref2" value="almoco">
+            <label for="inputcheckboxref2">Almoço</label><br>
+            <input type="checkbox" name="inputcheckboxref3" id="inputcheckboxref3" value="janta">
+            <label for="inputcheckboxref3">Janta</label><br>
+
+        </div>
+        <div class="divform">
+            <h3>Estado civil</h3>
+            <input type="radio" name="inputradio1" id="inputradio1" value="solteiro">
+            <label for="inputradio1">Solteiro</label><br>
+            <input type="radio" name="inputradio2" id="inputradio2" value="casado">
+            <label for="inputradio2">Casado</label><br>
+            <input type="radio" name="inputradio3" id="inputradio3" value="viuvo">
+            <label for="inputradio3">Viúvo</label>
+        </div>
+        <div class="divform">
+            <label for="diastrabalho">Dias que você trabalha:</label>
+            <select name="diastrabalho" id="diastrabalho">
+                <option value="Nenhum" selected="true">- Selecione uma opção</option>
+                <option value="Segunda">Segunda-feira</option>
+                <option value="Terça">Terça-feira</option>
+                <option value="Quarta">Quarta-feira</option>
+                <option value="Quinta">Quinta-feira</option>
+                <option value="Sexta">Sexta-feira</option>
+                <option value="Sábado">Sábado</option>
+                <option value="Domingo">Domingo</option>
+            </select>
+        </div>
+
+        <div class="divform">
+            <input type="submit" value="Cadastrar"> <!--o submit faz a ação-->
+        </div>
+    </form>
+
+    <button style="margin-top: 10px;" type="button" onclick="alert('Olá Mundo')">Testar JavaScript</button> <!--onclick javascript-->
+
+</body>
+
+</html>

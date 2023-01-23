@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.alertainicial {
+    text-align: center;
+    background-color: yellow;
+    padding: 7px;
+}
+
+.header {
+    padding: 40px;
+    text-align: center;
+    background-color: rgba(4, 67, 67, 0.739);
+    color: white;
+}
+
+.navbar {
+    display: flex;
+    background-color: black;
+    justify-content: flex-end;
+}
+.navbar > a {
+    color: white;
+    padding: 14px 20px;
+    text-align: center;
+    transition: 0.3s;
+}
+.navbar > a:hover {
+    background-color: gray;
+    color: black;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.side {
+    flex: 30%;
+    background-color: azure;
+    padding: 20px;
+}
+
+.main {
+    flex: 70%;
+    background-color: rgba(61, 215, 215, 0.421);
+    padding: 20px;
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(109, 106, 106);
+}
+
+.imagemteste {
+    height: 200px;
+    background-color: coral;
+    width: 100%;
+    padding: 20px;
+}
+
+
+/*responsividade*/
+@media screen and (max-width: 800px)
+{
+    .row, .navbar {
+        flex-direction: column;
+    }
+}

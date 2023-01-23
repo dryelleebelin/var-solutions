@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    background-color: rgba(68, 68, 223, 0.79);
+    padding: 10px;
+}
+
+.grid-container > div {
+    background-color: rgb(68, 68, 223);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}
+
+.item1 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto; /*auto = quantidade de colunas*/
+    grid-template-rows: 80px 200px; /*linhas e largura*/
+    gap: 10px;
+    background-color: rgba(68, 68, 223, 0.79);
+    padding: 10px;
+}
+
+.grid-container2 > div {
+    background-color: rgb(68, 68, 223);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+}

@@ -1,0 +1,10 @@
+.imagemperfil {
+    width: 100px;
+    border-radius: 15px;
+}
+
+.divform {
+    padding-top: 15px;
+    padding-left: 15px;
+    background-color: rgb(161, 157, 150);
+}

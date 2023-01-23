@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+header {
+    background-color: gray;
+    height: 100px;
+}
+
+footer {
+    background-color: antiquewhite;
+    height: 80px;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.container-flexbox {
+    display: flex; /*flexbox (responsivo) (flex=horizontal)*/
+    flex-direction: row; /*direção do flexbox*/
+    justify-content: flex-end;
+
+}
+
+.item-flexbox {
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

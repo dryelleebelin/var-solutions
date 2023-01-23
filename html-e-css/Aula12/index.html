@@ -1,0 +1,99 @@
+<!--bootstrap = estrutura, é um facilitador-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!--bootstrap-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <!--bootstrap-->
+    <title>Site 12</title>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <!--classe reservada do bootstrap-->
+        <div class="row">
+            <div class="col-lg-5 col-md-12"> <!--(col-md/lg = responsividade)-->
+                <h1>Meu décimo segundo site</h1>
+                <p>Estou evoluindo muito, já fiz 12 sites em sala, além dos sites pessoais.</p>
+                <p>Eu sou uma das melhores desenvolvedoras da atualidade!</p>
+                <p>Estou me preparando para assumir uma vaga de Dev no mercado de trabalho.</p>
+            </div>
+
+            <div class="col-lg-7 col-md-12"> <!--(col-md = responsividade/tamanho da tela)-->
+                <table class="table table-dark table-striped table-bordered table-hover">
+                    <!--classe reservada do bootstrap (css pronto)-->
+                    <thead class="table-primary">
+                        <!--linha cabeçalho-->
+                        <tr>
+                            <!--linha-->
+                            <th>Vaga</th>
+                            <!--coluna-->
+                            <th>Salário</th>
+                            <th>Empresa</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!--linha corpo-->
+                        <tr>
+                            <th>Dev Full Stack</th>
+                            <th>R$ 13.000,00</th>
+                            <th>Coca Cola</th>
+                        </tr>
+                        <tr>
+                            <th>Dev BackEnd Java</th>
+                            <th>R$ 14.300,00</th>
+                            <th>Banco do Brasil</th>
+                        </tr>
+                        <tr>
+                            <th>Dev FrontEnd</th>
+                            <th>R$ 6.000,00</th>
+                            <th>Facebook</th>
+                        </tr>
+                        <tr>
+                            <th>Dev BackEnd C#</th>
+                            <th>R$ 14.300,00</th>
+                            <th>Google</th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-2 col-12">
+                <!--coluna (ocupa duas colunas de 12)-->
+                <img class="rounded-circle" src="img/getulio.jpg" alt="Foto do Getúlio Vargas" width="100%">
+            </div>
+            <div class="col-sm-9 col-8">
+                <!--coluna-->
+                <h3>Getúlio Vargas</h3>
+                <p>Foi um homem que tinha dois olhos, e também tinha nariz.</p>
+            </div>
+            <div class="col-sm-1 col-4">
+                <p>teste</p>
+            </div>
+
+            <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="../img/paisagem2jpg.jpg" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="../img/paisagem3.jpg" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="../img/paisagem4.jpg" class="d-block w-100" alt="...">
+                  </div>
+                </div>
+              </div>
+        </div>
+    </div>
+</body>
+
+</html>
