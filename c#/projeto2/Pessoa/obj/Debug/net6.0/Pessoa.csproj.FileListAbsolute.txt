@@ -1,0 +1,15 @@
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\obj\Debug\net6.0\Pessoa.csproj.AssemblyReference.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\obj\Debug\net6.0\Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\obj\Debug\net6.0\Pessoa.AssemblyInfoInputs.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\obj\Debug\net6.0\Pessoa.AssemblyInfo.cs
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\obj\Debug\net6.0\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\bin\Debug\net6.0\Pessoa.exe
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\bin\Debug\net6.0\Pessoa.deps.json
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\bin\Debug\net6.0\Pessoa.runtimeconfig.json
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\bin\Debug\net6.0\Pessoa.dll
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\bin\Debug\net6.0\Pessoa.pdb
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\obj\Debug\net6.0\Pessoa.dll
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\obj\Debug\net6.0\refint\Pessoa.dll
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\obj\Debug\net6.0\Pessoa.pdb
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\obj\Debug\net6.0\Pessoa.genruntimeconfig.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto2\Pessoa\obj\Debug\net6.0\ref\Pessoa.dll
