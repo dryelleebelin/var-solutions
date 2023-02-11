@@ -1,0 +1,15 @@
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\bin\Debug\net6.0\JogoDaCobrinha.exe
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\bin\Debug\net6.0\JogoDaCobrinha.deps.json
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\bin\Debug\net6.0\JogoDaCobrinha.runtimeconfig.json
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\bin\Debug\net6.0\JogoDaCobrinha.dll
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\bin\Debug\net6.0\JogoDaCobrinha.pdb
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\obj\Debug\net6.0\JogoDaCobrinha.csproj.AssemblyReference.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\obj\Debug\net6.0\JogoDaCobrinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\obj\Debug\net6.0\JogoDaCobrinha.AssemblyInfoInputs.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\obj\Debug\net6.0\JogoDaCobrinha.AssemblyInfo.cs
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\obj\Debug\net6.0\JogoDaCobrinha.csproj.CoreCompileInputs.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\obj\Debug\net6.0\JogoDaCobrinha.dll
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\obj\Debug\net6.0\refint\JogoDaCobrinha.dll
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\obj\Debug\net6.0\JogoDaCobrinha.pdb
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\obj\Debug\net6.0\JogoDaCobrinha.genruntimeconfig.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto5\JogoDaCobrinha\obj\Debug\net6.0\ref\JogoDaCobrinha.dll

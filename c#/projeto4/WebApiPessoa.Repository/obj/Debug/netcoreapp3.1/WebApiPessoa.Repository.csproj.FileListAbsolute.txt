@@ -1,0 +1,10 @@
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Repository\bin\Debug\netcoreapp3.1\WebApiPessoa.Repository.deps.json
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Repository\bin\Debug\netcoreapp3.1\WebApiPessoa.Repository.dll
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Repository\bin\Debug\netcoreapp3.1\WebApiPessoa.Repository.pdb
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Repository\obj\Debug\netcoreapp3.1\WebApiPessoa.Repository.csproj.AssemblyReference.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Repository\obj\Debug\netcoreapp3.1\WebApiPessoa.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Repository\obj\Debug\netcoreapp3.1\WebApiPessoa.Repository.AssemblyInfoInputs.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Repository\obj\Debug\netcoreapp3.1\WebApiPessoa.Repository.AssemblyInfo.cs
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Repository\obj\Debug\netcoreapp3.1\WebApiPessoa.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Repository\obj\Debug\netcoreapp3.1\WebApiPessoa.Repository.dll
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Repository\obj\Debug\netcoreapp3.1\WebApiPessoa.Repository.pdb

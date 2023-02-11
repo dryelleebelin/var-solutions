@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <title>Web API Pessoas | Dryelle Ebelin</title>
+</head>
+
+<body>
+    <h1>Integração do front com o back</h1>
+
+    <div class="div-token">
+        <h3>Informações de segurança</h3>
+        <div>
+            <label for="txt_usuario">Usuário</label>
+            <input type="text" id="txt_usuario" placeholder="Digite o usuário:">
+            <label for="txt_senha">Senha</label>
+            <input type="password" id="txt_senha" placeholder="Digite a senha:"><br><br>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="div-adicionar-informacoes">
+            <p>Adicione as informações pessoais</p><br>
+            <label for="txt_nome">Nome:</label>
+            <input type="text" id="txt_nome" placeholder="Digite o nome" required><br>
+            <label for="txt_data">Data de nascimento:</label>
+            <input type="date" id="txt_data" required><br>
+            <label for="txt_altura">Altura:</label>
+            <input type="number" id="txt_altura" placeholder="Digite a altura" required><br>
+            <label for="txt_peso">Peso:</label>
+            <input type="number" id="txt_peso" placeholder="Digite o peso" required><br>
+            <label for="txt_salario">Salário:</label>
+            <input type="number" id="txt_salario" placeholder="Digite o salário" required><br>
+            <label for="txt_saldo">Saldo:</label>
+            <input type="number" id="txt_saldo" placeholder="Digite o saldo" required><br>
+    
+            <button onclick="processar()">Chamar api</button><br>
+        </div>
+    
+        <div class="div-resultados">
+            <p>Resultados</p><br>
+            <div>
+                <p id="resultado_nome">Nome: </p><br>
+                <p id="resultado_idade">Idade: </p><br>
+                <p id="resultado_imc">IMC: </p><br>
+                <p id="resultado_classificacao">Clasificação: </p><br>
+                <p id="resultado_inss">INSS: </p><br>
+                <p id="resultado_aliquota">Aliquota: </p><br>
+                <p id="resultado_salarioLiquido">Salário Liquido: </p><br>
+                <p id="resultado_saldoDolar">Saldo em dólar: </p>
+            </div>
+        </div>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>

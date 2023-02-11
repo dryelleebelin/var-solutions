@@ -1,0 +1,13 @@
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\bin\Debug\netcoreapp3.1\WebApiPessoa.Application.deps.json
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\bin\Debug\netcoreapp3.1\WebApiPessoa.Application.dll
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\bin\Debug\netcoreapp3.1\WebApiPessoa.Application.pdb
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\obj\Debug\netcoreapp3.1\WebApiPessoa.Application.csproj.AssemblyReference.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\obj\Debug\netcoreapp3.1\WebApiPessoa.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\obj\Debug\netcoreapp3.1\WebApiPessoa.Application.AssemblyInfoInputs.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\obj\Debug\netcoreapp3.1\WebApiPessoa.Application.AssemblyInfo.cs
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\obj\Debug\netcoreapp3.1\WebApiPessoa.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\obj\Debug\netcoreapp3.1\WebApiPessoa.Application.dll
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\obj\Debug\netcoreapp3.1\WebApiPessoa.Application.pdb
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\bin\Debug\netcoreapp3.1\WebApiPessoa.Repository.dll
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\bin\Debug\netcoreapp3.1\WebApiPessoa.Repository.pdb
+C:\Users\Dryelle Ebelin\Documents\dryelleebelinvar\csharp\projeto4\WebApiPessoa.Application\obj\Debug\netcoreapp3.1\WebApiPessoa.Application.csproj.CopyComplete

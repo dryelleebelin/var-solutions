@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@700&family=Eczar:wght@600;800&family=Noto+Sans:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    background-color: #111111;
+    color: #ffffff;
+}
+
+body > h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.container {
+    display: flex;
+    margin-top: 40px;
+}
+
+.div-token {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.div-token > div {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    width: 35%;
+    height: 27px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.div-adicionar-informacoes {
+    min-height: 100%;
+    width: 60vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.div-adicionar-informacoes > input {
+    width: 40%;
+    height: 30px;
+}
+
+.div-resultados > div {
+    min-height: 100%;
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.div-resultados > div > p {
+    margin-bottom: 8px;
+}
+
+button {
+    background-color: #006400;
+    border: none;
+    font-size: 15px;
+    width: 120px;
+    height: 40px;
+    border-radius: 13px;
+    cursor: pointer;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, .212);
+    transition: all 0.5s ease-in-out;
+}
+button:hover {
+    background-color: #008000;
+}

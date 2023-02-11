@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dryelle Ebelin\\Documents\\dryelleebelinvar\\csharp\\projeto4\\WebApiPessoa.Application\\WebApiPessoa.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dryelle Ebelin\\Documents\\dryelleebelinvar\\csharp\\projeto4\\WebApiPessoa.Application\\WebApiPessoa.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dryelle Ebelin\\Documents\\dryelleebelinvar\\csharp\\projeto4\\WebApiPessoa.Application\\WebApiPessoa.Application.csproj",
+        "projectName": "WebApiPessoa.Application",
+        "projectPath": "C:\\Users\\Dryelle Ebelin\\Documents\\dryelleebelinvar\\csharp\\projeto4\\WebApiPessoa.Application\\WebApiPessoa.Application.csproj",
+        "packagesPath": "C:\\Users\\Dryelle Ebelin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dryelle Ebelin\\Documents\\dryelleebelinvar\\csharp\\projeto4\\WebApiPessoa.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dryelle Ebelin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Dryelle Ebelin\\Documents\\dryelleebelinvar\\csharp\\projeto4\\WebApiPessoa.Repository\\WebApiPessoa.Repository.csproj": {
+                "projectPath": "C:\\Users\\Dryelle Ebelin\\Documents\\dryelleebelinvar\\csharp\\projeto4\\WebApiPessoa.Repository\\WebApiPessoa.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.26.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.26.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dryelle Ebelin\\Documents\\dryelleebelinvar\\csharp\\projeto4\\WebApiPessoa.Repository\\WebApiPessoa.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dryelle Ebelin\\Documents\\dryelleebelinvar\\csharp\\projeto4\\WebApiPessoa.Repository\\WebApiPessoa.Repository.csproj",
+        "projectName": "WebApiPessoa.Repository",
+        "projectPath": "C:\\Users\\Dryelle Ebelin\\Documents\\dryelleebelinvar\\csharp\\projeto4\\WebApiPessoa.Repository\\WebApiPessoa.Repository.csproj",
+        "packagesPath": "C:\\Users\\Dryelle Ebelin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dryelle Ebelin\\Documents\\dryelleebelinvar\\csharp\\projeto4\\WebApiPessoa.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dryelle Ebelin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
