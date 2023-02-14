@@ -64,7 +64,7 @@ namespace WebApiPessoa
             services.AddAuthorization();
 
             //banco de dados
-            services.AddDbContext<PessoaContext>(options => options.UseSqlServer("Server=DESKTOP-6A5AOHA\\SQLEXPRESS;Database=bancoDryelle;Trusted_Connection=True;"));
+            services.AddDbContext<PessoaContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConexaoPessoa")));
         }
 
 
