@@ -52,3 +52,5 @@ https://github.com/dryelleebelinvar
 🖱 [Inspiração de portifólios](https://www.hostinger.com.br/tutoriais/portfolio-desenvolvedor-web)   
 🖱 [Remove.bg - remover fundo de imagens](https://www.remove.bg/pt-br/upload)   
 🖱 [HTML Preview - github.io](https://htmlpreview.github.io/)   
+🖱 [Netlify](https://app.netlify.com/)   
+🖱 [Firebasee - banco de dados](https://firebase.google.com/?hl=pt-br)   
