@@ -1,0 +1,5 @@
+services:
+  sqlserver:
+    build: .  # "busque o arquivo docker-file"
+    ports:
+      - "1433:1433"

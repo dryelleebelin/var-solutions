@@ -1,0 +1,10 @@
+#componentes que vamos utilizar
+services:  #serviços que compõem esse arquivo
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest  #imagem que vamos utilizar
+    #váriaveis de ambiente:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "Teste01&"
+    ports:  #porta que o serviço vai estar disponível
+      - "1433:1433"
