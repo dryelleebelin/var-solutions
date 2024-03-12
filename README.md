@@ -54,3 +54,14 @@ https://github.com/dryelleebelinvar
 🖱 [HTML Preview - github.io](https://htmlpreview.github.io/)   
 🖱 [Netlify](https://app.netlify.com/)   
 🖱 [Firebasee - banco de dados](https://firebase.google.com/?hl=pt-br)   
+🖱 [ILoveIMG - edição de imagens](https://www.iloveimg.com/pt)   
+🖱 [colorpicker - seletor de cores](https://colorpicker.tools/pt/)   
+🖱 [JSON Web Tokens - verificação e decodificação de tokens](https://jwt.io/)   
+🖱 [Hash Generator - gerador de hash](https://www.md5hashgenerator.com/)   
+🖱 [Framer - criar sites](https://www.framer.com/)   
+🖱 [EmailJS - trabalhar com envio de e-mail](https://dashboard.emailjs.com/sign-in)   
+🖱 [dopelycolors - cores](https://colors.dopely.top/color-pedia)   
+🖱 [dribbble - templates](https://dribbble.com/search/cadastro)    
+
+
+
