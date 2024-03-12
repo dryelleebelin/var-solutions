@@ -62,6 +62,9 @@ https://github.com/dryelleebelinvar
 🖱 [EmailJS - trabalhar com envio de e-mail](https://dashboard.emailjs.com/sign-in)   
 🖱 [dopelycolors - cores](https://colors.dopely.top/color-pedia)   
 🖱 [dribbble - templates](https://dribbble.com/search/cadastro)    
+🖱 [bootstrapmade - templates](https://bootstrapmade.com/)    
+🖱 [w3layouts - templates](https://w3layouts.com/)    
+🖱 [onepagelove - templates](https://onepagelove.com/)    
 
 
 
