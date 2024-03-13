@@ -65,6 +65,6 @@ https://github.com/dryelleebelinvar
 🖱 [bootstrapmade - templates](https://bootstrapmade.com/)    
 🖱 [w3layouts - templates](https://w3layouts.com/)    
 🖱 [onepagelove - templates](https://onepagelove.com/)    
-
+🖱 [swiperjs - carrossel no react js](https://swiperjs.com/)    
 
 
